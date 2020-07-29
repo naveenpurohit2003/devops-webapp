@@ -1,2 +1,2 @@
 # devops-webapp
-DevOps Certification Project for Edureka
+Certification Project for Edureka DevOps
